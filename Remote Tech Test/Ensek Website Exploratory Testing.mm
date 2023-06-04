@@ -1,0 +1,49 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1685800297687" ID="ID_593020528" MODIFIED="1685901643520" TEXT="Exploratory Testing">
+<node CREATED="1685807439129" ID="ID_1743392545" MODIFIED="1685820158445" POSITION="right" TEXT="Browsers">
+<node CREATED="1685820097100" ID="ID_227672851" MODIFIED="1685820325420" TEXT="Firefox (v113.0.2)">
+<node CREATED="1685820103134" ID="ID_1526541820" MODIFIED="1685820384205" TEXT="Buy Electricity">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1685820117382" ID="ID_1302394108" MODIFIED="1685820491652" TEXT="MS Edge (v114.0.1823.37)">
+<node CREATED="1685820123974" ID="ID_352458641" MODIFIED="1685820536387" TEXT="Buy Oil">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1685820162705" ID="ID_1030092775" MODIFIED="1685820167530" POSITION="left" TEXT="Browser Interactions">
+<node CREATED="1685820169558" ID="ID_78681652" MODIFIED="1685820564933" TEXT="Refresh">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1685820174622" ID="ID_1242101973" MODIFIED="1685820692501" TEXT="Back">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1685820191511" ID="ID_1337630180" MODIFIED="1685820694986" TEXT="Tweaking the sales confirmation url">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1685901644538" ID="ID_107902438" MODIFIED="1685901683526" POSITION="right" TEXT="Mixed inputs">
+<node CREATED="1685901655593" ID="ID_1973221909" MODIFIED="1685901669873" TEXT="1 valid and 1 invalid">
+<node CREATED="1685901669874" ID="ID_1681386555" MODIFIED="1685901673222" TEXT="click valid">
+<node CREATED="1685901699850" ID="ID_1648691920" MODIFIED="1685901880418" TEXT="only that one updated">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1685901673642" ID="ID_1766230049" MODIFIED="1685901676582" TEXT="click invalid">
+<node CREATED="1685901708873" ID="ID_159755060" MODIFIED="1685901883237" TEXT="none updated">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node CREATED="1685901713363" ID="ID_1765501853" MODIFIED="1685901735242" TEXT="2 valid">
+<node CREATED="1685901735243" ID="ID_1830774749" MODIFIED="1685901745950" TEXT="try to click 2 together (tab to one button)">
+<node CREATED="1685901889236" ID="ID_1694521002" MODIFIED="1685901899043" TEXT="Just uses the one the mouse clicked">
+<icon BUILTIN="yes"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</map>
